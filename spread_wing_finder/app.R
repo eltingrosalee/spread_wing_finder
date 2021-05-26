@@ -15,14 +15,16 @@ ui <- fluidPage(theme= shinytheme("slate"),
                                            choices = unique(wings$institution)),
                                radioButtons("clade", "Select a clade:", 
                                             choices = unique(wings$clade)),
+                               selectInput("sex", "Select sex of interest:",
+                                           choices = unique(wings$sex)),
                                h6("Powered by:",height =20),
-                               tags$img(src='be_logo.png', align = "left", height=100, width=100)),
+                               tags$img(src='be_logo.png', align = "left", height=200, width=200)),
                   mainPanel(tableOutput("wingsdata"),
                   fluid=TRUE)))
 # Create the server function:
 server <- (function(input, output) {
   output$wingsdata <- renderTable({
-    museumFilter <- subset(wings, wings$institution== input$museum & wings$clade == input$clade, c("institution", "clade", "genus", "specificepithet", "infraspecificepithet", "vernacularname", "sex", "catalognumber"))
+    museumFilter <- subset(wings, wings$institution== input$museum & wings$clade == input$clade & wings$sex == input$sex, c("institution", "clade", "genus", "specificepithet", "infraspecificepithet", "vernacularname", "sex", "catalognumber"))
   })
 })
 
