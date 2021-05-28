@@ -19,18 +19,19 @@ wings <- data.frame(wings_csv)
 ui <- fluidPage(theme= shinytheme("slate"),
                 sidebarLayout(
                   sidebarPanel(pickerInput("museum", "Choose your museum:", 
-                                           choices = unique(wings$institution),options = list(`actions-box` = TRUE),multiple = T, selected = unique(wings$institution)),
+                                           choices = unique(wings$institution),options = list(`actions-box` = TRUE),multiple = T, selected = "University of Washington Burke Museum"),
                                awesomeCheckboxGroup("clade", "Clade:", 
                                             choices = unique(wings$clade), width =1, status= "info"),
                                pickerInput("sex", "Select sex of interest:",
-                                           choices = unique(wings$sex), selected = NULL,options = list(`actions-box` = TRUE),multiple = T),
+                                           choices = unique(wings$sex), selected = "male", options = list(`actions-box` = TRUE),multiple = T),
                                h6("Powered by:",height =20), 
                                tags$img(src='be_logo.png', align = "left", height=200, width=200)),
-                  mainPanel(tableOutput("wingsdata"),
-                  fluid=TRUE)))
+                  mainPanel(tableOutput("wingsdata")),
+                  fluid=TRUE))
 # Create the server function:
 server <- (function(input, output) {
-  output$wingsdata <- renderTable({ subset(wings, wings$institution== input$museum & wings$clade == input$clade & input$sex == wings$sex, c("institution", "clade", "genus", "specificepithet", "infraspecificepithet", "vernacularname", "sex", "catalognumber"))
+  output$wingsdata <- renderTable({ subset(wings, wings$institution== input$museum & wings$clade == input$clade & input$sex == wings$sex, 
+                                           c("institution", "clade", "genus", "specificepithet", "infraspecificepithet", "vernacularname", "sex", "catalognumber"))
     })
 })
 
