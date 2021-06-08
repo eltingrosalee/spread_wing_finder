@@ -1,4 +1,4 @@
-# Attach necessary packages
+# Attach necessary packages 
 library(tidyverse)
 library(shiny)
 library(shinythemes)
@@ -30,8 +30,12 @@ ui <- fluidPage(theme= shinytheme("slate"),
                                             choices = unique(wings$Clade), width =1, status= "info"),
                                pickerInput("sex", "Select sex of interest:",
                                            choices = unique(wings$Sex), selected = "male", options = list(`actions-box` = TRUE),multiple = T),
-                               h6(a(href="https://rosaleeelting.wixsite.com/mysite","Powered by:",height =20)), 
-                               tags$img(src='be_logo.png', align = "left", height=200, width=200)),
+                               h4("Created by", a(href="https://rosaleeelting.wixsite.com/mysite","Rosalee Elting")),
+                               h5("To see what else our lab is working on", a(href="https://rosaleeelting.wixsite.com/mysite","click here!")),
+                               tags$img(src='be_logo.png', align = "left", height=200, width=200),
+                               br(), br(), br(), br(),br(), br(),br(), br(),br(), br(),
+                               h6("Behavioral Ecophysics Lab, University of Washington, Seattle, WA "),
+                               h6("Data Provided by", a(href="http://vertnet.org/", "Vertnet"))),
                   mainPanel(titlePanel(h1("Wings Available:", align = "center",style = "font-size:20px;")),tableOutput("wingsdata"),
                   fluid=TRUE)))
 # Create the server function:
