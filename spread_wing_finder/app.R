@@ -41,7 +41,7 @@ ui <- fluidPage(theme= shinytheme("slate"),
 # Create the server function:
 server <- (function(input, output) {
   output$wingsdata <- renderTable({ subset(wings, wings$Institution== input$museum & wings$Clade == input$clade & input$sex == wings$Sex, 
-                                           c("Institution", "Clade", "Genus", "Species", "Subspecies", "Common Name", "Sex", "Collection Catalog"))
+                                           c("Institution", "Common Name", "Genus", "Species", "Subspecies", "Clade", "Sex", "Catalog Number"))
     })
 })
 
