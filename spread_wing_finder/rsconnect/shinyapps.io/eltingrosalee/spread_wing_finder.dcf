@@ -5,10 +5,10 @@ account: eltingrosalee
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 4165487
-bundleId: 4693328
+bundleId: 5065441
 url: https://eltingrosalee.shinyapps.io/spread_wing_finder/
-when: 1623177290.11726
-lastSyncTime: 1623177290.11726
+when: 1632425637.28785
+lastSyncTime: 1632425637.28785
 asMultiple: FALSE
 asStatic: FALSE
 ignoredFiles: www/Behavioral_Ecophysics_Lab(Logo) copy.png
