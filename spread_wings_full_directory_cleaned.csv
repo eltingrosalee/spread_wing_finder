@@ -1,0 +1,881 @@
+institutioncode,institution,collectioncode,catalognumber,recordnumber,scientificname,kingdom,phylum,class,order,family,clade,genus,subgenus,specificepithet,infraspecificepithet,taxonrank,verbatimtaxonrank,vernacularname,sex
+CAS,California Academy of Sciences,ORN,97721,LCW831,Selasphorus sasin,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,sasin,,,,Allen's Hummingbird,female
+CAS,California Academy of Sciences,ORN,97722,LCW824,Selasphorus sasin,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,sasin,,,,Allen's Hummingbird,female
+CAS,California Academy of Sciences,ORN,97723,LCW889,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,,,Anna's Hummingbird,female
+CAS,California Academy of Sciences,ORN,97734,CCO678,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,,,Anna's Hummingbird,female
+CAS,California Academy of Sciences,ORN,98145,LCW1146,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,,,Rufous Hummingbird,undetermined
+CAS,California Academy of Sciences,ORN,98151,LCW1158,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,,,Anna's Hummingbird,female
+CM,Carnegie Museum of Natural History,Birds,S10071,DSW 4239,Anthracothorax prevostii,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mangoes,Anthracothorax,,prevostii,,species,,Green-breasted Mango,female
+CM,Carnegie Museum of Natural History,Birds,S10285,DSW 4566,Anthracothorax prevostii,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mangoes,Anthracothorax,,prevostii,,species,,Green-breasted Mango,female
+CM,Carnegie Museum of Natural History,Birds,S13775,,Colibri coruscans,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mangoes,Colibri,,coruscans,,species,,Sparkling Violetear,undetermined
+CM,Carnegie Museum of Natural History,Birds,S9335,,Colibri delphinae,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mangoes,Colibri,,delphinae,,species,,Brown Violetear,male
+CM,Carnegie Museum of Natural History,Birds,S10100,DSW 4284,Phaethornis superciliosus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,superciliosus,,species,,Long-tailed Hermit,female
+CM,Carnegie Museum of Natural History,Birds,S10140,DSW 4337,Phaethornis superciliosus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,superciliosus,,species,,Long-tailed Hermit,female
+CM,Carnegie Museum of Natural History,Birds,S8851,DSW 3246,Phaethornis longuemareus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,longuemareus,,species,,Little Hermit,female
+CM,Carnegie Museum of Natural History,Birds,S10010,DSW 4159,Amazilia cyanocephala,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,cyanocephala,,species,,Azure-crowned hummingbird,male
+CM,Carnegie Museum of Natural History,Birds,S10069,DSW 4233,Amazilia tzacatl,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,tzacatl,,species,,Rufous-tailed Hummingbird,male
+CM,Carnegie Museum of Natural History,Birds,S10118,DSW 4311,Campylopterus curvipennis,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Campylopterus,,curvipennis,,species,,Wedge-tailed sabrewing,male
+CM,Carnegie Museum of Natural History,Birds,S10136,DSW 4333,Amazilia tzacatl,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,tzacatl,,species,,Rufous-tailed Hummingbird,male
+CM,Carnegie Museum of Natural History,Birds,S10137,DSW 4334,Campylopterus curvipennis,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Campylopterus,,curvipennis,,species,,Wedge-tailed sabrewing,female
+CM,Carnegie Museum of Natural History,Birds,S10138,DSW 4335,Campylopterus curvipennis,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Campylopterus,,curvipennis,,species,,Wedge-tailed sabrewing,female
+CM,Carnegie Museum of Natural History,Birds,S10139,DSW 4336,Campylopterus curvipennis,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Campylopterus,,curvipennis,,species,,Wedge-tailed sabrewing,female
+CM,Carnegie Museum of Natural History,Birds,S10148,DSW 4347,Amazilia tzacatl,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,tzacatl,,species,,Rufous-tailed Hummingbird,female
+CM,Carnegie Museum of Natural History,Birds,S10252,DSW 4508,Amazilia cyanocephala,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,cyanocephala,,species,,Azure-crowned hummingbird,female
+CM,Carnegie Museum of Natural History,Birds,S10268,DSW 4538,Amazilia cyanocephala,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,cyanocephala,,species,,Azure-crowned hummingbird,male
+CM,Carnegie Museum of Natural History,Birds,S10269,DSW 4539,Amazilia yucatanensis,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,yucatanensis,,species,,Buff-bellied Hummingbird,male
+CM,Carnegie Museum of Natural History,Birds,S10283,DSW 4564,Amazilia candida,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,candida,,species,,White-bellied Emerald,female
+CM,Carnegie Museum of Natural History,Birds,S10284,DSW 4565,Amazilia candida,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,candida,,species,,White-bellied Emerald,male
+CM,Carnegie Museum of Natural History,Birds,S9140,DSW 3939,Amazilia tzacatl,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,tzacatl,,species,,Rufous-tailed Hummingbird,male
+CM,Carnegie Museum of Natural History,Birds,S13280,,Boissonneaua matthewsii,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Brilliants ,Boissonneaua,,matthewsii,,species,,Chestnut-breasted coronet,undetermined
+CM,Carnegie Museum of Natural History,Birds,S11249,,Calypte costae,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,costae,,species,,Costa's Hummingbird,male
+CM,Carnegie Museum of Natural History,Birds,S12203,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+CM,Carnegie Museum of Natural History,Birds,S12206,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,female
+CM,Carnegie Museum of Natural History,Birds,S13312,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+CM,Carnegie Museum of Natural History,Birds,S13525,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,female
+CM,Carnegie Museum of Natural History,Birds,S13854,,Archilochus alexandri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,alexandri,,species,,Black-chinned Hummingbird,male
+CM,Carnegie Museum of Natural History,Birds,S14504,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+CM,Carnegie Museum of Natural History,Birds,S16279,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+CM,Carnegie Museum of Natural History,Birds,S16280,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+CM,Carnegie Museum of Natural History,Birds,S16493,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+CM,Carnegie Museum of Natural History,Birds,S16494,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+CM,Carnegie Museum of Natural History,Birds,S6861,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,female
+CM,Carnegie Museum of Natural History,Birds,S7560,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,female
+CM,Carnegie Museum of Natural History,Birds,S8107,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,female
+CM,Carnegie Museum of Natural History,Birds,S8208,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,female
+CMNH,Cleveland Museum of Natural History,Birds,71405,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,female
+CMNH,Cleveland Museum of Natural History,Birds,71439,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,female
+CMNH,Cleveland Museum of Natural History,Birds,71479,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+CMNH,Cleveland Museum of Natural History,Birds,71909,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+CMNH,Cleveland Museum of Natural History,Birds,71932,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,female
+CMNH,Cleveland Museum of Natural History,Birds,72198,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+CMNH,Cleveland Museum of Natural History,Birds,72249,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+CMNH,Cleveland Museum of Natural History,Birds,72445,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+CMNH,Cleveland Museum of Natural History,Birds,72446,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+CMNH,Cleveland Museum of Natural History,Birds,72447,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+CMNH,Cleveland Museum of Natural History,Birds,72462,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+CMNH,Cleveland Museum of Natural History,Birds,72800,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+CMNH,Cleveland Museum of Natural History,Birds,73035,,Stellula calliope,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Stellula,,calliope,,species,,Calliope Hummingbird,male
+CMNH,Cleveland Museum of Natural History,Birds,73430,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,female
+CMNH,Cleveland Museum of Natural History,Birds,73461,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,female
+CMNH,Cleveland Museum of Natural History,Birds,74036,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+CRCM,Charles R. Conner Museum,Birds,93-681,,Selasphorus calliope,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,calliope,,species,,Calliope Hummingbird,male
+CUMV,Cornell University Museum of Vertebrates,Bird,51255,IJL 04-001,Threnetes ruckeri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Threnetes,,ruckeri,,species,,Band-tailed Barbthroat,undetermined
+CUMV,Cornell University Museum of Vertebrates,Bird,51896,IJL 04-073,Eutoxeres aquila,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Eutoxeres,,aquila,,species,,White-tipped Sicklebill,undetermined
+CUMV,Cornell University Museum of Vertebrates,Bird,51897,IJL 04-004,Threnetes ruckeri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Threnetes,,ruckeri,,species,,Band-tailed Barbthroat,undetermined
+CUMV,Cornell University Museum of Vertebrates,Bird,50339,JTW 537,Thalurania colombica,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Thalurania,,colombica,,species,,Crowned Woodnymph,male
+CUMV,Cornell University Museum of Vertebrates,Bird,50340,JTW 376,Lepidopyga coeruleogularis,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Lepidopyga,,coeruleogularis,,species,,Sapphire-throated Hummingbird,male
+CUMV,Cornell University Museum of Vertebrates,Bird,50341,JTW 377,Lepidopyga coeruleogularis,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Lepidopyga,,coeruleogularis,,species,,Sapphire-throated Hummingbird,male
+CUMV,Cornell University Museum of Vertebrates,Bird,51898,IJL 04-004,Thalurania colombica,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Thalurania,,colombica,,species,,Crowned Woodnymph,undetermined
+CUMV,Cornell University Museum of Vertebrates,Bird,37143,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+CUMV,Cornell University Museum of Vertebrates,Bird,44079,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+CUMV,Cornell University Museum of Vertebrates,Bird,44123,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,female
+CUMV,Cornell University Museum of Vertebrates,Bird,44124,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+CUMV,Cornell University Museum of Vertebrates,Bird,48258,,Selasphorus platycercus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,undetermined
+CUMV,Cornell University Museum of Vertebrates,Bird,48328,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+CUMV,Cornell University Museum of Vertebrates,Bird,48921,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,female
+CUMV,Cornell University Museum of Vertebrates,Bird,49013,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+CUMV,Cornell University Museum of Vertebrates,Bird,49026,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,female
+CUMV,Cornell University Museum of Vertebrates,Bird,49766,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,female
+CUMV,Cornell University Museum of Vertebrates,Bird,50452,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,female
+CUMV,Cornell University Museum of Vertebrates,Bird,51878,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,female
+CUMV,Cornell University Museum of Vertebrates,Bird,51879,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+CUMV,Cornell University Museum of Vertebrates,Bird,57247,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+CUMV,Cornell University Museum of Vertebrates,Bird,57248,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+DMNH,Delaware Museum of Natural History,Bird,74086,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,female
+DMNH,Delaware Museum of Natural History,Bird,79342,TSBR 91-1324,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,female
+DMNH,Delaware Museum of Natural History,Bird,79483,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,female
+DMNH,Delaware Museum of Natural History,Bird,82652,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+DMNH,Delaware Museum of Natural History,Bird,82653,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+DMNH,Delaware Museum of Natural History,Bird,82705,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+DMNH,Delaware Museum of Natural History,Bird,84111,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+DMNS,Delaware Museum of Natural History,Bird specimens,DMNS:Bird:44336,,Selasphorus sp.,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Selasphorus,,,,genus,,,female
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,112277,,Panterpe insignis,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Panterpe,,insignis,,species,,Fiery-throated Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,163136,,Phaethornis malaris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,malaris,,species,,Great-billed Hermit,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,165775,,Phaethornis bourcieri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,bourcieri,,species,,Straight-billed Hermit,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,165793,,Phaethornis longirostris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,longirostris,,species,,Long-billed Hermit,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,150459,,Chlorostilbon maugaeus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Chlorostilbon,,maugaeus,,species,,Puerto Rican Emerald,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,150467,,Orthorhyncus cristatus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Orthorhyncus,,cristatus,,species,,Antillean Crested Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,163138,,Thalurania furcata,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Thalurania,,furcata,,species,, Fork-tailed woodnymph,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,163139,,Taphrospilus hypostictus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Taphrospilus,,hypostictus,,species,,Many-spotted Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,163856,,Campylopterus hemileucurus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Campylopterus,,hemileucurus,,species,,Violet Sabrewing,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,163857,,Eupherusa eximia,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Eupherusa,,eximia,,species,,Stripe-tailed Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,163858,,Eupherusa nigriventris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Eupherusa,,nigriventris,,species,,Black-bellied Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,165776,,Thalurania furcata,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Thalurania,,furcata,,species,, Fork-tailed woodnymph,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,165794,,Campylopterus largipennis,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Campylopterus,,largipennis,,species,,Grey-breasted sabrewing,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,168149,,Amazilia yucatanensis,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,yucatanensis,,species,,Buff-bellied Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,177779,,Lepidopyga coeruleogularis,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Lepidopyga,,coeruleogularis,,species,,Sapphire-throated Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,157376,,Polyonymus caroli,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Coquettes,Polyonymus,,caroli,,species,,Bronze-tailed Comet,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,105273,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,105274,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,126335,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,126336,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,126337,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,126338,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,126339,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,152826,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,152827,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,152829,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,152830,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,152993,,Selasphorus platycercus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,154142,,Selasphorus flammula,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,flammula,,species,,Volcano Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,154984,,Selasphorus platycercus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,157026,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,157240,,Archilochus alexandri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,alexandri,,species,,Black-chinned Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,157241,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,159105,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,159964,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,159973,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,159990,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,159991,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,160134,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,160155,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,165569,,Selasphorus platycercus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,165570,,Selasphorus platycercus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,165571,,Selasphorus platycercus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,165682,,Archilochus alexandri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,alexandri,,species,,Black-chinned Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,165683,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,165686,,Selasphorus platycercus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,165687,,Selasphorus platycercus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,166005,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,168153,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,171703,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,173332,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,173333,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,173347,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,180046,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,180047,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,180048,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,180972,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,181003,,Stellula calliope,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Stellula,,calliope,,species,,Calliope Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,181020,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,181163,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,182140,,Calothorax lucifer,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calothorax,,lucifer,,species,,Lucifer Hummingbird,undetermined
+LSUMZ,Louisiana State University Museum of Natural Science,Birds,182471,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+MCZ,Museum of Comparative Zoology,Orn,335462,,Florisuga mellivora,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Topazes,Florisuga,,mellivora,,,,White-necked Jacobin,female
+MCZ,Museum of Comparative Zoology,Orn,335463,,Florisuga mellivora,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Topazes,Florisuga,,mellivora,,,,White-necked Jacobin,male
+MCZ,Museum of Comparative Zoology,Orn,337052,,Heliomaster constantii,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Heliomaster,,constantii,,,,Plain-capped Starthroat,male
+MCZ,Museum of Comparative Zoology,Orn,347999,,Eutoxeres aquila,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Eutoxeres,,aquila,,,,White-tipped Sicklebill,male
+MCZ,Museum of Comparative Zoology,Orn,337322,,Eupherusa eximia,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Eupherusa,,eximia,,,,Stripe-tailed Hummingbird,male
+MCZ,Museum of Comparative Zoology,Orn,348002,,Chlorostilbon canivetii,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Chlorostilbon,,canivetii,,,,Canivet's Emerald,male
+MCZ,Museum of Comparative Zoology,Orn,338477,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,,,Rufous Hummingbird,undetermined
+MCZ,Museum of Comparative Zoology,Orn,348264,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,,,Ruby-throated Hummingbird,undetermined
+MCZ,Museum of Comparative Zoology,Orn,348267,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,,,Ruby-throated Hummingbird,female
+MLZ,Museum of Comparative Zoology,Bird specimens,MLZ:Bird:68976,,Archilochus colubris,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,female
+MMNH,Bell Museum of Natural History,Bird,46448,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+MMNH,Bell Museum of Natural History,Bird,48483,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,female
+MMNH,Bell Museum of Natural History,Bird,48484,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+MMNH,Bell Museum of Natural History,Bird,48713,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,female
+MMNH,Bell Museum of Natural History,Bird,48769,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+MMNH,Bell Museum of Natural History,Bird,49062,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+MMNH,Bell Museum of Natural History,Bird,49063,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+MMNH,Bell Museum of Natural History,Bird,49217,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+MMNH,Bell Museum of Natural History,Bird,49340,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+MMNH,Bell Museum of Natural History,Bird,49341,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+MMNH,Bell Museum of Natural History,Bird,49410,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+MMNH,Bell Museum of Natural History,Bird,49473,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+MMNH,Bell Museum of Natural History,Bird,49492,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+MMNH,Bell Museum of Natural History,Bird,49501,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+MMNH,Bell Museum of Natural History,Bird,49502,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+MMNH,Bell Museum of Natural History,Bird,49540,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+MMNH,Bell Museum of Natural History,Bird,49551,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+MMNH,Bell Museum of Natural History,Bird,49552,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,female
+MMNH,Bell Museum of Natural History,Bird,49553,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+MMNH,Bell Museum of Natural History,Bird,49554,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+MMNH,Bell Museum of Natural History,Bird,49560,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+MMNH,Bell Museum of Natural History,Bird,49600,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+MMNH,Bell Museum of Natural History,Bird,49607,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+MMNH,Bell Museum of Natural History,Bird,49652,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+MMNH,Bell Museum of Natural History,Bird,49700,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+MMNH,Bell Museum of Natural History,Bird,49721,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+MMNH,Bell Museum of Natural History,Bird,49810,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+MMNH,Bell Museum of Natural History,Bird,49819,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+MMNH,Bell Museum of Natural History,Bird,49950,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+MMNH,Bell Museum of Natural History,Bird,49956,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+MMNH,Bell Museum of Natural History,Bird,49975,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+MMNH,Bell Museum of Natural History,Bird,49979,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+MMNH,Bell Museum of Natural History,Bird,50043,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+MMNH,Bell Museum of Natural History,Bird,50091,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+MMNH,Bell Museum of Natural History,Bird,50139,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+MMNH,Bell Museum of Natural History,Bird,50151,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+MMNH,Bell Museum of Natural History,Bird,50153,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+MMNH,Bell Museum of Natural History,Bird,50154,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+MMNH,Bell Museum of Natural History,Bird,50168,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+MMNH,Bell Museum of Natural History,Bird,50179,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+MMNH,Bell Museum of Natural History,Bird,50275,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+MMNH,Bell Museum of Natural History,Bird,50358,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+MMNH,Bell Museum of Natural History,Bird,50359,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+MMNH,Bell Museum of Natural History,Bird,50369,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+MMNH,Bell Museum of Natural History,Bird,50370,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+MMNH,Bell Museum of Natural History,Bird,50380,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+MMNH,Bell Museum of Natural History,Bird,50381,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+MMNH,Bell Museum of Natural History,Bird,50382,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+MMNH,Bell Museum of Natural History,Bird,50383,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+MMNH,Bell Museum of Natural History,Bird,50384,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+MMNH,Bell Museum of Natural History,Bird,50385,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+MMNH,Bell Museum of Natural History,Bird,50395,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+MMNH,Bell Museum of Natural History,Bird,50396,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+MMNH,Bell Museum of Natural History,Bird,50397,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+MMNH,Bell Museum of Natural History,Bird,50398,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+MMNH,Bell Museum of Natural History,Bird,50399,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,female
+MMNH,Bell Museum of Natural History,Bird,50413,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,female
+MMNH,Bell Museum of Natural History,Bird,50415,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+MMNH,Bell Museum of Natural History,Bird,50488,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,female
+MSB,Museum of Southwestern Biology,Bird specimens,MSB:Bird:44297,,Archilochus alexandri,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Archilochus,,alexandri,,species,,Black-chinned Hummingbird,male
+MSB,Museum of Southwestern Biology,Bird specimens,MSB:Bird:44298,,Archilochus alexandri,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Archilochus,,alexandri,,species,,Black-chinned Hummingbird,male
+MSB,Museum of Southwestern Biology,Bird specimens,MSB:Bird:44457,,Selasphorus platycercus,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,undetermined
+MSB,Museum of Southwestern Biology,Bird specimens,MSB:Bird:46448,,Selasphorus platycercus,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,male
+MSB,Museum of Southwestern Biology,Bird specimens,MSB:Bird:46449,,Selasphorus platycercus,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,male
+MSB,Museum of Southwestern Biology,Bird specimens,MSB:Bird:46450,,Selasphorus platycercus,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,male
+MSB,Museum of Southwestern Biology,Bird specimens,MSB:Bird:46451,,Selasphorus platycercus,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,male
+MSB,Museum of Southwestern Biology,Bird specimens,MSB:Bird:46452,,Selasphorus platycercus,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,male
+MSB,Museum of Southwestern Biology,Bird specimens,MSB:Bird:46453,,Selasphorus platycercus,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,male
+MSB,Museum of Southwestern Biology,Bird specimens,MSB:Bird:46454,,Selasphorus platycercus,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,male
+MSB,Museum of Southwestern Biology,Bird specimens,MSB:Bird:46457,,Selasphorus platycercus,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,male
+MSB,Museum of Southwestern Biology,Bird specimens,MSB:Bird:46458,,Selasphorus platycercus,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,male
+MSB,Museum of Southwestern Biology,Bird specimens,MSB:Bird:46459,,Selasphorus platycercus,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,male
+MSB,Museum of Southwestern Biology,Bird specimens,MSB:Bird:46460,,Selasphorus platycercus,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,male
+MSB,Museum of Southwestern Biology,Bird specimens,MSB:Bird:46461,,Selasphorus platycercus,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,male
+MSB,Museum of Southwestern Biology,Bird specimens,MSB:Bird:46462,,Selasphorus platycercus,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,male
+MSB,Museum of Southwestern Biology,Bird specimens,MSB:Bird:46463,,Selasphorus platycercus,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,male
+MSB,Museum of Southwestern Biology,Bird specimens,MSB:Bird:46464,,Selasphorus platycercus,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,male
+MSB,Museum of Southwestern Biology,Bird specimens,MSB:Bird:46465,,Archilochus alexandri,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Archilochus,,alexandri,,species,,Black-chinned Hummingbird,male
+MSB,Museum of Southwestern Biology,Bird specimens,MSB:Bird:46466,,Archilochus alexandri,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Archilochus,,alexandri,,species,,Black-chinned Hummingbird,male
+MSB,Museum of Southwestern Biology,Bird specimens,MSB:Bird:46467,,Archilochus alexandri,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Archilochus,,alexandri,,species,,Black-chinned Hummingbird,male
+MSB,Museum of Southwestern Biology,Bird specimens,MSB:Bird:46468,,Archilochus alexandri,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Archilochus,,alexandri,,species,,Black-chinned Hummingbird,male
+MSB,Museum of Southwestern Biology,Bird specimens,MSB:Bird:46469,,Archilochus alexandri,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Archilochus,,alexandri,,species,,Black-chinned Hummingbird,male
+MSB,Museum of Southwestern Biology,Bird specimens,MSB:Bird:60405,,Archilochus alexandri,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Archilochus,,alexandri,,species,,Black-chinned Hummingbird,undetermined
+MSB,Museum of Southwestern Biology,Bird specimens,MSB:Bird:60406,,Archilochus alexandri,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Archilochus,,alexandri,,species,,Black-chinned Hummingbird,undetermined
+MSB,Museum of Southwestern Biology,Bird specimens,MSB:Bird:60478,,Archilochus alexandri,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Archilochus,,alexandri,,species,,Black-chinned Hummingbird,undetermined
+MSB,Museum of Southwestern Biology,Bird specimens,MSB:Bird:60485,,Archilochus alexandri,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Archilochus,,alexandri,,species,,Black-chinned Hummingbird,undetermined
+MSB,Museum of Southwestern Biology,Bird specimens,MSB:Bird:60487,,Archilochus alexandri,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Archilochus,,alexandri,,species,,Black-chinned Hummingbird,undetermined
+MSB,Museum of Southwestern Biology,Bird specimens,MSB:Bird:60488,,Archilochus alexandri,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Archilochus,,alexandri,,species,,Black-chinned Hummingbird,undetermined
+MSB,Museum of Southwestern Biology,Bird specimens,MSB:Bird:60517,,Archilochus alexandri,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Archilochus,,alexandri,,species,,Black-chinned Hummingbird,undetermined
+MSB,Museum of Southwestern Biology,Bird specimens,MSB:Bird:60518,,Selasphorus rufus,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,undetermined
+MSB,Museum of Southwestern Biology,Bird specimens,MSB:Bird:60521,,Archilochus alexandri,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Archilochus,,alexandri,,species,,Black-chinned Hummingbird,undetermined
+MVZ,"Museum of Vertebrate Zoology, UC Berkeley",Bird specimens,MVZ:Bird:183597,34,Trochilus polytmus polytmus,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Emeralds,Trochilus,,polytmus,polytmus,subspecies,,Streamertail,male
+MVZ,"Museum of Vertebrate Zoology, UC Berkeley",Bird specimens,MVZ:Bird:183598,36,Trochilus polytmus polytmus,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Emeralds,Trochilus,,polytmus,polytmus,subspecies,,Streamertail,male
+MVZ,"Museum of Vertebrate Zoology, UC Berkeley",Bird specimens,MVZ:Bird:180476,2406,Calypte anna,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+MVZ,"Museum of Vertebrate Zoology, UC Berkeley",Bird specimens,MVZ:Bird:180477,61,Calypte anna,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+MVZ,"Museum of Vertebrate Zoology, UC Berkeley",Bird specimens,MVZ:Bird:180478,2407,Calypte anna,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,undetermined
+MVZ,"Museum of Vertebrate Zoology, UC Berkeley",Bird specimens,MVZ:Bird:181755,,Calypte anna,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+MVZ,"Museum of Vertebrate Zoology, UC Berkeley",Bird specimens,MVZ:Bird:183556,67,Selasphorus sasin sedentarius,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Selasphorus,,sasin,sedentarius,subspecies,,Allen's Hummingbird,male
+MVZ,"Museum of Vertebrate Zoology, UC Berkeley",Bird specimens,MVZ:Bird:183559,214,Selasphorus platycercus,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,male
+MVZ,"Museum of Vertebrate Zoology, UC Berkeley",Bird specimens,MVZ:Bird:183703,190,Selasphorus calliope,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Selasphorus,,calliope,,species,,Calliope Hummingbird,male
+MVZ,"Museum of Vertebrate Zoology, UC Berkeley",Bird specimens,MVZ:Bird:189442,,Calypte anna,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,undetermined (possibly f)
+MVZ,"Museum of Vertebrate Zoology, UC Berkeley",Bird specimens,MVZ:Bird:189443,,Calypte anna,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,female
+MVZ,"Museum of Vertebrate Zoology, UC Berkeley",Bird specimens,MVZ:Bird:189444,,Calypte anna,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,undetermined (possibly f)
+NYSM,New York State Museum,ZO,zo-10712,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+OMNH,Sam Noble Oklahoma Museum of Natural History,Birds,16050,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,,,Ruby-throated Hummingbird,male
+OMNH,Sam Noble Oklahoma Museum of Natural History,Birds,16948,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,,,Ruby-throated Hummingbird,male
+OMNH,Sam Noble Oklahoma Museum of Natural History,Birds,23156,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,,,Ruby-throated Hummingbird,male
+ROM,Royal Ontario Museum,Birds,102351,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,,,Ruby-throated Hummingbird,male
+UAM,University of Alaska Museum,Bird specimens,UAM:Bird:22693,,Amazilia tzacatl tzacatl,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Emeralds,Amazilia,,tzacatl,tzacatl,subspecies,,Rufous-tailed Hummingbird,undetermined
+UAM,University of Alaska Museum,Bird specimens,UAM:Bird:36997,,Heliodoxa jacula,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Brilliants,Heliodoxa,,jacula,,species,,Green-crowned Brilliant,undetermined
+UAM,University of Alaska Museum,Bird specimens,UAM:Bird:22452,,Archilochus colubris,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+UAZ,University of Arizona Museum of Natural History,Ornithology,UAz-013618,None,Lampornis clemenciae,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Lampornis,,clemenciae,,species,,Blue-throated Hummingbird,undetermined
+UAZ,University of Arizona Museum of Natural History,Ornithology,UAz-016157,TRH-2754,Eugenes fulgens,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Eugenes,,fulgens,,species,,Magnificent Hummingbird,male
+UAZ,University of Arizona Museum of Natural History,Ornithology,UAz-013130,None,Selasphorus platycercus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,male
+UAZ,University of Arizona Museum of Natural History,Ornithology,UAz-017315,TRH-3226,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UBCBBM,University of British Columbia Beaty Biodiversity Museum,CTC,B014754,,Selasphorus calliope,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,calliope,,species,,Calliope Hummingbird,male
+UBCBBM,University of British Columbia Beaty Biodiversity Museum,CTC,B014910,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,female
+UCM,University of Colorado Museum of Natural History,Bird specimens,UCM:Bird:16210,,Selasphorus platycercus,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,male
+UF,Florida Museum of Natural History,Birds,42635,ANDREW W. KRATTER 2258,Glaucis hirsutus insularum,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Glaucis,,hirsutus,insularum,subspecies,,Rufous-breasted Hermit,male
+UF,Florida Museum of Natural History,Birds,40050,ANDREW W. KRATTER 1466,Chlorostilbon ricordii,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Chlorostilbon,,ricordii,,species,,Cuban Emerald,male
+UF,Florida Museum of Natural History,Birds,21971,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,female
+UF,Florida Museum of Natural History,Birds,22051,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+UF,Florida Museum of Natural History,Birds,40635,TERRY TAYLOR 126,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+UF,Florida Museum of Natural History,Birds,50116,ANDREW W. KRATTER 4155,Archilochus alexandri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,alexandri,,species,,Black-chinned Hummingbird,female
+UMMZ,University of Michigan Museum of Zoology,birds,236105,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UMMZ,University of Michigan Museum of Zoology,birds,245555,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,female
+UMMZ,University of Michigan Museum of Zoology,birds,245603,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+UMMZ,University of Michigan Museum of Zoology,birds,245604,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,female
+UMMZ,University of Michigan Museum of Zoology,birds,245655,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,female
+UMMZ,University of Michigan Museum of Zoology,birds,245665,B877-16,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+UMMZ,University of Michigan Museum of Zoology,birds,245684,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+UMMZ,University of Michigan Museum of Zoology,birds,245685,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+UMMZ,University of Michigan Museum of Zoology,birds,245695,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+UMMZ,University of Michigan Museum of Zoology,birds,245696,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,female
+UMMZ,University of Michigan Museum of Zoology,birds,245697,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+UMMZ,University of Michigan Museum of Zoology,birds,245704,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+UMMZ,University of Michigan Museum of Zoology,birds,245707,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,female
+UMMZ,University of Michigan Museum of Zoology,birds,245724,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,female
+University of Alberta Museums,University of Alberta Museums,UAMZ,B7212,,Stellula calliope,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Stellula,,Stellula calliope,,Species,,Calliope Hummingbird,undetermined
+University of Alberta Museums,University of Alberta Museums,UAMZ,B7455,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,Archilochus colubris,,Species,,ruby-throated hummingbird,undetermined
+UTEP,University of Texas at El Paso,Bird specimens,UTEP:Bird:2204,,Archilochus alexandri,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Archilochus,,alexandri,,species,,Black-chinned Hummingbird,female
+UTEP,University of Texas at El Paso,Bird specimens,UTEP:Bird:2205,,Archilochus alexandri,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Archilochus,,alexandri,,species,,Black-chinned Hummingbird,male
+UTEP,University of Texas at El Paso,Bird specimens,UTEP:Bird:2489,,Selasphorus platycercus,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,undetermined
+UTEP,University of Texas at El Paso,Bird specimens,UTEP:Bird:2495,,Selasphorus rufus,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,47618,,Lampornis calolaemus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Lampornis,,calolaemus,,,,Purple-throated Mountaingem,male
+UWBM,University of Washington Burke Museum,Bird,56113,,Lampornis sybillae,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Lampornis,,sybillae,,species,,Green-breasted Mountain-gem,male
+UWBM,University of Washington Burke Museum,Bird,56118,,Lampornis sybillae,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Lampornis,,sybillae,,species,,Green-breasted Mountain-gem,male
+UWBM,University of Washington Burke Museum,Bird,56121,,Lampornis sybillae,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Lampornis,,sybillae,,species,,Green-breasted Mountain-gem,male
+UWBM,University of Washington Burke Museum,Bird,56152,,Lampornis sybillae,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Lampornis,,sybillae,,species,,Green-breasted Mountain-gem,male
+UWBM,University of Washington Burke Museum,Bird,56159,,Lampornis sybillae,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Lampornis,,sybillae,,species,,Green-breasted Mountain-gem,male
+UWBM,University of Washington Burke Museum,Bird,56160,,Lampornis sybillae,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Lampornis,,sybillae,,species,,Green-breasted Mountain-gem,female
+UWBM,University of Washington Burke Museum,Bird,56178,,Lampornis sybillae,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Lampornis,,sybillae,,species,,Green-breasted Mountain-gem,female
+UWBM,University of Washington Burke Museum,Bird,56201,,Lampornis calolaemus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Lampornis,,calolaema,,species,,Purple-throated Mountain-gem,female
+UWBM,University of Washington Burke Museum,Bird,56209,,Lampornis calolaemus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Lampornis,,calolaemus,,species,,Purple-throated Mountain-gem,female
+UWBM,University of Washington Burke Museum,Bird,56210,,Lampornis calolaemus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Lampornis,,calolaemus,,species,,Purple-throated Mountain-gem,male
+UWBM,University of Washington Burke Museum,Bird,56216,,Lampornis calolaemus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Lampornis,,calolaemus,,species,,Purple-throated Mountain-gem,female
+UWBM,University of Washington Burke Museum,Bird,56224,,Lampornis calolaemus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Lampornis,,calolaemus,,species,,Purple-throated Mountain-gem,male
+UWBM,University of Washington Burke Museum,Bird,69098,,Lampornis calolaemus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Lampornis,,calolaemus,,species,,Purple-throated Mountain-gem,female
+UWBM,University of Washington Burke Museum,Bird,69099,,Lampornis calolaemus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Lampornis,,calolaemus,,species,,Purple-throated Mountain-gem,male
+UWBM,University of Washington Burke Museum,Bird,69116,,Lampornis calolaemus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Lampornis,,calolaemus,,species,,Purple-throated Mountain-gem,male
+UWBM,University of Washington Burke Museum,Bird,69126,,Lampornis calolaemus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Lampornis,,calolaemus,,species,,Purple-throated Mountaingem,female
+UWBM,University of Washington Burke Museum,Bird,69186,,Heliomaster constantii,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Heliomaster,,constantii,,species,,Plain-capped Starthroat,male
+UWBM,University of Washington Burke Museum,Bird,76935,,Heliothryx barroti,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Heliothryx,,barroti,,species,,Purple-crowned Fairy,female
+UWBM,University of Washington Burke Museum,Bird,77545,,Eugenes fulgens,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Eugenes,,fulgens,,,,Rivoli's Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,82363,,Lampornis clemenciae,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Lampornis,,clemenciae,,species,,Blue-throated Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,82365,,Eugenes fulgens,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Eugenes,,fulgens,,,,Rivoli's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,82466,,Eugenes fulgens,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Eugenes,,fulgens,,,,Rivoli's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,82469,,Eugenes fulgens,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Eugenes,,fulgens,,,,Rivoli's Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,82524,,Eugenes fulgens,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Eugenes,,fulgens,,species,,Rivoli's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,82535,,Eugenes fulgens,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Eugenes,,fulgens,,species,,Rivoli's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,82630,,Eugenes fulgens,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Eugenes,,fulgens,,species,,Rivoli's Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,82631,,Eugenes fulgens,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Eugenes,,fulgens,,species,,Rivoli's Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,82633,,Eugenes fulgens,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Eugenes,,fulgens,,species,,Rivoli's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,82634,,Eugenes fulgens,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Eugenes,,fulgens,,species,,Rivoli's Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,82638,,Eugenes fulgens,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Eugenes,,fulgens,,species,,Rivoli's Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,82653,,Eugenes fulgens,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Eugenes,,fulgens,,species,,Rivoli's Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,82665,,Heliomaster constantii,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Heliomaster,,constantii,,species,,Plain-capped Starthroat,male
+UWBM,University of Washington Burke Museum,Bird,82852,,Eugenes fulgens,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Eugenes,,fulgens,,species,,Rivoli's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,82868,,Eugenes fulgens,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Eugenes,,fulgens,,species,,Rivoli's Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,82874,,Lampornis amethystinus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Lampornis,,amethystinus,,species,,Amethyst-throated Mountaingem,female
+UWBM,University of Washington Burke Museum,Bird,82905,,Eugenes fulgens,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Eugenes,,fulgens,,species,,Rivoli's Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,82914,,Eugenes fulgens,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Eugenes,,fulgens,,species,,Rivoli's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,82916,,Eugenes fulgens,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Eugenes,,fulgens,,species,,Rivoli's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,83947,,Heliomaster constantii,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Heliomaster,,constantii,,species,,Plain-capped Starthroat,male
+UWBM,University of Washington Burke Museum,Bird,84014,,Heliomaster constantii,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Heliomaster,,constantii,,species,,Plain-capped Starthroat,male
+UWBM,University of Washington Burke Museum,Bird,84015,,Heliomaster constantii,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Heliomaster,,constantii,,species,,Plain-capped Starthroat,undetermined
+UWBM,University of Washington Burke Museum,Bird,84053,,Heliomaster constantii,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Heliomaster,,constantii,,species,,Plain-capped Starthroat,female
+UWBM,University of Washington Burke Museum,Bird,121812,,Lampornis calolaemus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Lampornis,,calolaemus,,species,,Purple-throated Mountaingem,male
+UWBM,University of Washington Burke Museum,Bird,121813,,Lampornis calolaemus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Lampornis,,calolaemus,,species,,Purple-throated Mountaingem,male
+UWBM,University of Washington Burke Museum,Bird,121814,,Lampornis hemileucus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Lampornis,,hemileucus,,species,,White-bellied Mountaingem,female
+UWBM,University of Washington Burke Museum,Bird,121815,,Lampornis calolaemus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Lampornis,,calolaemus,,species,,Purple-throated Mountaingem,male
+UWBM,University of Washington Burke Museum,Bird,121816,,Lampornis hemileucus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Lampornis,,hemileucus,,species,,White-bellied Mountaingem,female
+UWBM,University of Washington Burke Museum,Bird,123329,,Lampornis calolaemus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Lampornis,,calolaemus,,species,,Purple-throated Mountaingem,male
+UWBM,University of Washington Burke Museum,Bird,125002,,Lampornis castaneoventris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mountain Gems,Lampornis,,castaneoventris,,species,,White-throated Mountaingem,female
+UWBM,University of Washington Burke Museum,Bird,56031,,Anthracothorax prevostii,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mangoes,Anthracothorax,,prevostii,,species,,Green-breasted Mango,male
+UWBM,University of Washington Burke Museum,Bird,56041,,Anthracothorax prevostii,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mangoes,Anthracothorax,,prevostii,,species,,Green-breasted Mango,male
+UWBM,University of Washington Burke Museum,Bird,65256,,Anthracothorax viridis,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mangoes,Anthracothorax,,viridis,,species,,Green Mango,male
+UWBM,University of Washington Burke Museum,Bird,65257,,Anthracothorax viridis,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mangoes,Anthracothorax,,viridis,,species,,Green Mango,male
+UWBM,University of Washington Burke Museum,Bird,77187,,Colibri thalassinus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mangoes,Colibri,,thalassinus,,,,Mexican Violetear,male
+UWBM,University of Washington Burke Museum,Bird,118954,,Colibri thalassinus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Mangoes,Colibri,,thalassinus,,species,,Mexican Violetear,male
+UWBM,University of Washington Burke Museum,Bird,56018,,Phaethornis superciliosus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,superciliosus,,species,,Long-tailed Hermit,female
+UWBM,University of Washington Burke Museum,Bird,56029,,Phaethornis superciliosus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,superciliosus,,species,,Long-tailed Hermit,female
+UWBM,University of Washington Burke Museum,Bird,56050,,Threnetes ruckeri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Threnetes,,ruckeri,,species,,Band-tailed Barbthroat,male
+UWBM,University of Washington Burke Museum,Bird,56051,,Glaucis aeneus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Glaucis,,aeneus,,,,Bronzy Hermit,male
+UWBM,University of Washington Burke Museum,Bird,56052,,Glaucis aeneus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Glaucis,,aeneus,,,,Bronzy Hermit,male
+UWBM,University of Washington Burke Museum,Bird,56053,,Phaethornis superciliosus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,superciliosus,,species,,Long-tailed Hermit,male
+UWBM,University of Washington Burke Museum,Bird,56077,,Threnetes ruckeri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Threnetes,,ruckeri,,species,,Band-tailed Barbthroat,male
+UWBM,University of Washington Burke Museum,Bird,56225,,Phaethornis longuemareus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,longuemareus,,species,,Little Hermit,male
+UWBM,University of Washington Burke Museum,Bird,68960,,Phaethornis longuemareus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,longuemareus,,species,,Little Hermit,male
+UWBM,University of Washington Burke Museum,Bird,68970,,Phaethornis longuemareus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,longuemareus,,species,,Little Hermit,female
+UWBM,University of Washington Burke Museum,Bird,68975,,Phaethornis longuemareus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,longuemareus,,species,,Little Hermit,female
+UWBM,University of Washington Burke Museum,Bird,69145,,Phaethornis longuemareus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,longuemareus,,species,,Little Hermit,male
+UWBM,University of Washington Burke Museum,Bird,69156,,Phaethornis longuemareus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,longuemareus,,species,,Little Hermit,female
+UWBM,University of Washington Burke Museum,Bird,76837,,Threnetes ruckeri darienensis,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Threnetes,,ruckeri,darienensis,subspecies,,Band-tailed Barbthroat,male
+UWBM,University of Washington Burke Museum,Bird,76868,,Eutoxeres aquila salvini,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Eutoxeres,,aquila,salvini,subspecies,,White-tipped Sicklebill,male
+UWBM,University of Washington Burke Museum,Bird,76887,,Phaethornis guy coruscans,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,guy,coruscans,subspecies,,Green Hermit,male
+UWBM,University of Washington Burke Museum,Bird,76890,,Phaethornis guy coruscans,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,guy,coruscans,subspecies,,Green Hermit,male
+UWBM,University of Washington Burke Museum,Bird,76893,,Phaethornis guy coruscans,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,guy,coruscans,subspecies,,Green Hermit,female
+UWBM,University of Washington Burke Museum,Bird,76908,,Eutoxeres aquila salvini,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Eutoxeres,,aquila,salvini,subspecies,,White-tipped Sicklebill,female
+UWBM,University of Washington Burke Museum,Bird,76921,,Threnetes ruckeri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Threnetes,,ruckeri,,,,Band-tailed Barbthroat,male
+UWBM,University of Washington Burke Museum,Bird,76925,,Eutoxeres aquila salvini,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Eutoxeres,,aquila,salvini,subspecies,,White-tipped Sicklebill,male
+UWBM,University of Washington Burke Museum,Bird,76939,,Threnetes ruckeri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Threnetes,,ruckeri,,,,Band-tailed Barbthroat,male
+UWBM,University of Washington Burke Museum,Bird,76940,,Eutoxeres aquila salvini,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Eutoxeres,,aquila,salvini,subspecies,,White-tipped Sicklebill,male
+UWBM,University of Washington Burke Museum,Bird,76943,,Eutoxeres aquila salvini,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Eutoxeres,,aquila,salvini,subspecies,,White-tipped Sicklebill,undetermined
+UWBM,University of Washington Burke Museum,Bird,76948,,Threnetes ruckeri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Threnetes,,ruckeri,,,,Band-tailed Barbthroat,male
+UWBM,University of Washington Burke Museum,Bird,76949,,Eutoxeres aquila salvini,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Eutoxeres,,aquila,salvini,subspecies,,White-tipped Sicklebill,male
+UWBM,University of Washington Burke Museum,Bird,76953,,Eutoxeres aquila salvini,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Eutoxeres,,aquila,salvini,subspecies,,White-tipped Sicklebill,female
+UWBM,University of Washington Burke Museum,Bird,76969,,Eutoxeres aquila salvini,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Eutoxeres,,aquila,salvini,subspecies,,White-tipped Sicklebill,male
+UWBM,University of Washington Burke Museum,Bird,76984,,Phaethornis guy coruscans,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,guy,coruscans,subspecies,,Green Hermit,male
+UWBM,University of Washington Burke Museum,Bird,76993,,Threnetes ruckeri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Threnetes,,ruckeri,,,,Band-tailed Barbthroat,male
+UWBM,University of Washington Burke Museum,Bird,77005,,Threnetes ruckeri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Threnetes,,ruckeri,,,,Band-tailed Barbthroat,male
+UWBM,University of Washington Burke Museum,Bird,77035,,Phaethornis guy coruscans,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,guy,coruscans,subspecies,,Green Hermit,female
+UWBM,University of Washington Burke Museum,Bird,77150,,Phaethornis malaris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,malaris,,species,,Great-billed Hermit,male
+UWBM,University of Washington Burke Museum,Bird,77784,,Phaethornis malaris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,malaris,,species,,Great-billed Hermit,male
+UWBM,University of Washington Burke Museum,Bird,118909,,Phaethornis mexicanus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,mexicanus,,species,,Mexican Hermit,male
+UWBM,University of Washington Burke Museum,Bird,118910,,Phaethornis mexicanus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,mexicanus,,species,,Mexican Hermit,female
+UWBM,University of Washington Burke Museum,Bird,118938,,Phaethornis mexicanus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,mexicanus,,species,,Mexican Hermit,female
+UWBM,University of Washington Burke Museum,Bird,118939,,Phaethornis mexicanus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,mexicanus,,species,,Mexican Hermit,undetermined
+UWBM,University of Washington Burke Museum,Bird,118944,,Phaethornis mexicanus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,mexicanus,,species,,Mexican Hermit,female
+UWBM,University of Washington Burke Museum,Bird,123358,,Phaethornis guy,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,guy,,species,,Green Hermit,male
+UWBM,University of Washington Burke Museum,Bird,123404,,Glaucis aeneus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Glaucis,,aeneus,,species,,Bronzy Hermit,female
+UWBM,University of Washington Burke Museum,Bird,123405,,Glaucis aeneus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Glaucis,,aeneus,,species,,Bronzy Hermit,female
+UWBM,University of Washington Burke Museum,Bird,123415,,Phaethornis longuemareus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,longuemareus,,species,,Little Hermit,
+UWBM,University of Washington Burke Museum,Bird,123416,,Phaethornis superciliosus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,superciliosus,,species,,Long-tailed Hermit,male
+UWBM,University of Washington Burke Museum,Bird,123451,,Phaethornis guy,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,guy,,species,,Green Hermit,male
+UWBM,University of Washington Burke Museum,Bird,123452,,Phaethornis superciliosus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,superciliosus,,species,,Long-tailed Hermit,female
+UWBM,University of Washington Burke Museum,Bird,123474,,Phaethornis guy,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,guy,,species,,Green Hermit,female
+UWBM,University of Washington Burke Museum,Bird,123475,,Phaethornis guy,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,guy,,species,,Green Hermit,female
+UWBM,University of Washington Burke Museum,Bird,123499,,Threnetes ruckeri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Threnetes,,ruckeri,,species,,Band-tailed Barbthroat,male
+UWBM,University of Washington Burke Museum,Bird,123500,,Threnetes ruckeri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Threnetes,,ruckeri,,species,,Band-tailed Barbthroat,male
+UWBM,University of Washington Burke Museum,Bird,123512,,Threnetes ruckeri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Threnetes,,ruckeri,,species,,Band-tailed Barbthroat,male
+UWBM,University of Washington Burke Museum,Bird,123546,,Phaethornis guy,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,guy,,species,,Green Hermit,female
+UWBM,University of Washington Burke Museum,Bird,123628,,Threnetes ruckeri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Threnetes,,ruckeri,,species,,Band-tailed Barbthroat,male
+UWBM,University of Washington Burke Museum,Bird,123629,,Threnetes ruckeri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Threnetes,,ruckeri,,species,,Band-tailed Barbthroat,male
+UWBM,University of Washington Burke Museum,Bird,123684,,Phaethornis longuemareus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,longuemareus,,species,,Little Hermit,male
+UWBM,University of Washington Burke Museum,Bird,123686,,Phaethornis guy,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,guy,,species,,Green Hermit,female
+UWBM,University of Washington Burke Museum,Bird,123832,,Phaethornis guy,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,guy,,species,,Green Hermit,male
+UWBM,University of Washington Burke Museum,Bird,123886,,Phaethornis superciliosus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,superciliosus,,species,,Long-tailed Hermit,male
+UWBM,University of Washington Burke Museum,Bird,123924,,Threnetes ruckeri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Threnetes,,ruckeri,,species,,Band-tailed Barbthroat,male
+UWBM,University of Washington Burke Museum,Bird,123926,,Eutoxeres aquila,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Eutoxeres,,aquila,,species,,White-tipped Sicklebill,male
+UWBM,University of Washington Burke Museum,Bird,123931,,Phaethornis superciliosus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,superciliosus,,species,,Long-tailed Hermit,female
+UWBM,University of Washington Burke Museum,Bird,124912,,Glaucis aeneus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Glaucis,,aeneus,,species,,Bronzy Hermit,male
+UWBM,University of Washington Burke Museum,Bird,124998,,Phaethornis longuemareus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,longuemareus,,species,,Little Hermit,female
+UWBM,University of Washington Burke Museum,Bird,124999,,Phaethornis guy,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,guy,,species,,Green Hermit,male
+UWBM,University of Washington Burke Museum,Bird,125001,,Eutoxeres aquila,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Eutoxeres,,aquila,,species,,White-tipped Sicklebill,female
+UWBM,University of Washington Burke Museum,Bird,125003,,Phaethornis guy,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,guy,,species,,Green Hermit,male
+UWBM,University of Washington Burke Museum,Bird,46805,,Campylopterus hemileucurus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Campylopterus,,hemileucurus,,species,,Violet Sabrewing,female
+UWBM,University of Washington Burke Museum,Bird,54382,,Chlorostilbon lucidus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Chlorostilbon,,lucidus,,,,Glittering-bellied Emerald,female
+UWBM,University of Washington Burke Museum,Bird,54385,,Amazilia chionogaster,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,chionogaster,,species,,White-bellied Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,54386,,Chlorostilbon lucidus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Chlorostilbon,,lucidus,,,,Glittering-bellied Emerald,male
+UWBM,University of Washington Burke Museum,Bird,55996,,Amazilia tzacatl,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,tzacatl,,species,,Rufous-tailed Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,56002,,Amazilia rutila,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,rutila,,species,,Cinnamon Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,56007,,Amazilia tzacatl,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,tzacatl,,species,,Rufous-tailed Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,56012,,Amazilia tzacatl,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,tzacatl,,species,,Rufous-tailed Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,56013,,Amazilia tzacatl,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,tzacatl,,species,,Rufous-tailed Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,56016,,Amazilia tzacatl,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,tzacatl,,species,,Rufous-tailed Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,56017,,Hylocharis eliciae,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Hylocharis,,eliciae,,species,,Blue-throated Goldentail,female
+UWBM,University of Washington Burke Museum,Bird,56027,,Amazilia tzacatl,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,tzacatl,,species,,Rufous-tailed Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,56032,,Amazilia tzacatl,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,tzacatl,,species,,Rufous-tailed Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,56034,,Phaeochroa cuvierii,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Phaeochroa,,cuvierii,,species,,Scaly-breasted Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,56042,,Amazilia tzacatl,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,tzacatl,,species,,Rufous-tailed Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,56054,,Hylocharis eliciae,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Hylocharis,,eliciae,,species,,Blue-throated Goldentail,male
+UWBM,University of Washington Burke Museum,Bird,56107,,Eupherusa eximia,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Eupherusa,,eximia,,species,,Stripe-tailed Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,56114,,Eupherusa eximia,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Eupherusa,,eximia,,species,,Stripe-tailed Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,56117,,Eupherusa eximia,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Eupherusa,,eximia,,species,,Stripe-tailed Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,56138,,Campylopterus hemileucurus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Campylopterus,,hemileucurus,,species,,Violet Sabrewing,female
+UWBM,University of Washington Burke Museum,Bird,56142,,Campylopterus hemileucurus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Campylopterus,,hemileucurus,,species,,Violet Sabrewing,female
+UWBM,University of Washington Burke Museum,Bird,56165,,Campylopterus hemileucurus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Campylopterus,,hemileucurus,,species,,Violet Sabrewing,male
+UWBM,University of Washington Burke Museum,Bird,56168,,Campylopterus hemileucurus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Campylopterus,,hemileucurus,,species,,Violet Sabrewing,female
+UWBM,University of Washington Burke Museum,Bird,56173,,Eupherusa eximia,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Eupherusa,,eximia,,species,,Stripe-tailed Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,68955,,Amazilia cyanura,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,cyanura,,species,,Blue-tailed Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,68956,,Amazilia saucerottei,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,saucerottei,,species,,Steely-vented Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,68961,,Amazilia saucerottei,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,saucerottei,,species,,Steely-vented Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,68962,,Amazilia saucerottei,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,saucerottei,,species,,Steely-vented Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,68966,,Hylocharis eliciae,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Hylocharis,,eliciae,,species,,Blue-throated Goldentail,male
+UWBM,University of Washington Burke Museum,Bird,68991,,Amazilia rutila,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,rutila,,species,,Cinnamon Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,68996,,Amazilia cyanura,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,cyanura,,species,,Blue-tailed Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,69001,,Amazilia rutila,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,rutila,,species,,Cinnamon Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,69012,,Amazilia cyanura,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,cyanura,,species,,Blue-tailed Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,69013,,Amazilia cyanura,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,cyanura,,species,,Blue-tailed Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,69024,,Amazilia saucerottei,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,saucerottei,,species,,Steely-vented Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,69026,,Amazilia saucerottei,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,saucerottei,,species,,Steely-vented Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,69027,,Amazilia saucerottei,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,saucerottei,,species,,Steely-vented Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,69030,,Chlorostilbon canivetii,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Chlorostilbon,,canivetii,,species,,Canivet's Emerald,male
+UWBM,University of Washington Burke Museum,Bird,69032,,Amazilia rutila,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,rutila,,species,,Cinnamon Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,69038,,Amazilia rutila,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,rutila,,species,,Cinnamon Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,69046,,Hylocharis eliciae,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Hylocharis,,eliciae,,species,,Blue-throated Goldentail,male
+UWBM,University of Washington Burke Museum,Bird,69088,,Hylocharis eliciae,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Hylocharis,,eliciae,,species,,Blue-throated Goldentail,male
+UWBM,University of Washington Burke Museum,Bird,69093,,Amazilia saucerottei,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,saucerottei,,species,,Steely-vented Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,69103,,Amazilia saucerottei,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,saucerottei,,species,,Steely-vented Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,69107,,Amazilia saucerottei,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,saucerottei,,species,,Steely-vented Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,69111,,Amazilia rutila,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,rutila,,species,,Cinnamon Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,69113,,Hylocharis eliciae,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Hylocharis,,eliciae,,species,,Blue-throated Goldentail,male
+UWBM,University of Washington Burke Museum,Bird,69114,,Hylocharis eliciae,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Hylocharis,,eliciae,,species,,Blue-throated Goldentail,male
+UWBM,University of Washington Burke Museum,Bird,69119,,Hylocharis eliciae,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Hylocharis,,eliciae,,species,,Blue-throated Goldentail,female
+UWBM,University of Washington Burke Museum,Bird,69123,,Hylocharis eliciae,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Hylocharis,,eliciae,,species,,Blue-throated Goldentail,male
+UWBM,University of Washington Burke Museum,Bird,69128,,Amazilia saucerottei,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,saucerottei,,species,,Steely-vented Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,69130,,Hylocharis eliciae,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Hylocharis,,eliciae,,species,,Blue-throated Goldentail,female
+UWBM,University of Washington Burke Museum,Bird,69136,,Amazilia saucerottei,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,saucerottei,,species,,Steely-vented Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,69146,,Amazilia rutila,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,rutila,,species,,Cinnamon Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,71523,,Amazilia chionogaster,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,chionogaster,,species,,White-bellied Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,76116,,Amazilia yucatanensis,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,yucatanensis,,species,,Buff-bellied Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,76870,,Thalurania colombica,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Thalurania,,colombica,,,,Crowned Woodnymph,female
+UWBM,University of Washington Burke Museum,Bird,76884,,Thalurania colombica,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Thalurania,,colombica,,,,Crowned Woodnymph,male
+UWBM,University of Washington Burke Museum,Bird,76889,,Thalurania colombica,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Thalurania,,colombica,,,,Crowned Woodnymph,male
+UWBM,University of Washington Burke Museum,Bird,76911,,Thalurania colombica,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Thalurania,,colombica,,,,Crowned Woodnymph,female
+UWBM,University of Washington Burke Museum,Bird,76915,,Thalurania colombica,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Thalurania,,colombica,,,,Crowned Woodnymph,female
+UWBM,University of Washington Burke Museum,Bird,76922,,Thalurania colombica,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Thalurania,,colombica,,,,Crowned Woodnymph,female
+UWBM,University of Washington Burke Museum,Bird,76923,,Thalurania colombica,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Thalurania,,colombica,,,,Crowned Woodnymph,female
+UWBM,University of Washington Burke Museum,Bird,76937,,Chalybura urochrysia isaurae,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Chalybura,,urochrysia,isaurae,subspecies,,Bronze-tailed Plumeleteer,male
+UWBM,University of Washington Burke Museum,Bird,76938,,Thalurania colombica,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Thalurania,,colombica,,,,Crowned Woodnymph,male
+UWBM,University of Washington Burke Museum,Bird,76963,,Thalurania colombica,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Thalurania,,colombica,,,,Crowned Woodnymph,male
+UWBM,University of Washington Burke Museum,Bird,76980,,Thalurania colombica,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Thalurania,,colombica,,,,Crowned Woodnymph,female
+UWBM,University of Washington Burke Museum,Bird,76992,,Chalybura urochrysia isaurae,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Chalybura,,urochrysia,isaurae,subspecies,,Bronze-tailed Plumeleteer,male
+UWBM,University of Washington Burke Museum,Bird,77144,,Amazilia chionogaster,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,chionogaster,,species,,White-bellied Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,77145,,Hylocharis cyanus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Hylocharis,,cyanus,,species,,White-chinned Sapphire,male
+UWBM,University of Washington Burke Museum,Bird,77156,,Basilinna leucotis,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Basilinna,,leucotis,,,,White-eared Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,77373,,Chlorostilbon lucidus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Chlorostilbon,,lucidus,,,,Glittering-bellied Emerald,male
+UWBM,University of Washington Burke Museum,Bird,77748,,Cynanthus latirostris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Cynanthus,,latirostris,,species,,Broad-billed Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,81121,,Amazilia rutila,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,rutila,,species,,Cinnamon Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,81143,,Amazilia beryllina,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,beryllina,,species,,Berylline Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,81176,,Basilinna xantusii,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Basilinna,,xantusii,,,,Xantus's Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,81204,,Amazilia rutila,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,rutila,,species,,Cinnamon Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,81300,,Amazilia rutila,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,rutila,,species,,Cinnamon Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,81330,,Amazilia rutila,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,rutila,,species,,Cinnamon Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,81337,,Amazilia violiceps,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,violiceps,,species,,Violet-crowned Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,81340,,Amazilia rutila,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,rutila,,species,,Cinnamon Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,81364,,Basilinna xantusii,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Basilinna,,xantusii,,,,Xantus's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,81366,,Basilinna xantusii,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Basilinna,,xantusii,,,,Xantus's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,81375,,Basilinna xantusii,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Basilinna,,xantusii,,,,Xantus's Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,81422,,Cynanthus latirostris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Cynanthus,,latirostris,,species,,Broad-billed Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,81427,,Amazilia rutila,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,rutila,,species,,Cinnamon Hummingbird,undetermined
+UWBM,University of Washington Burke Museum,Bird,81434,,Amazilia rutila,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,rutila,,species,,Cinnamon Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,82347,,Basilinna xantusii,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Basilinna,,xantusii,,,,Xantus's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,82377,,Amazilia violiceps,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,violiceps,,,,Violet-crowned Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,82406,,Cynanthus latirostris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Cynanthus,,latirostris,,,,Broad-billed Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,82442,,Amazilia beryllina,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,beryllina,,,,Berylline Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,82444,,Amazilia violiceps,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,violiceps,,,,Violet-crowned Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,82488,,Amazilia beryllina,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,beryllina,,,,Berylline Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,82492,,Amazilia beryllina,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,beryllina,,,,Berylline Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,82499,,Cynanthus latirostris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Cynanthus,,latirostris,,species,,Broad-billed Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,82512,,Cynanthus latirostris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Cynanthus,,latirostris,,species,,Broad-billed Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,82603,,Cynanthus latirostris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Cynanthus,,latirostris,,species,,Broad-billed Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,82614,,Cynanthus latirostris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Cynanthus,,latirostris,,species,,Broad-billed Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,82629,,Hylocharis leucotis,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Hylocharis,,leucotis,,species,,White-eared Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,82674,,Cynanthus latirostris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Cynanthus,,latirostris,,species,,Broad-billed Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,82686,,Basilinna xantusii,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Basilinna,,xantusii,,species,,Xantus's Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,82688,,Basilinna xantusii,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Basilinna,,xantusii,,species,,Xantus's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,82707,,Cynanthus latirostris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Cynanthus,,latirostris,,species,,Broad-billed Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,82713,,Cynanthus latirostris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Cynanthus,,latirostris,,species,,Broad-billed Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,82747,,Amazilia violiceps,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,violiceps,,species,,Violet-crowned Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,82749,,Amazilia violiceps,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,violiceps,,species,,Violet-crowned Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,82751,,Amazilia beryllina,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,beryllina,,species,,Berylline Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,82755,,Amazilia violiceps,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,violiceps,,species,,Violet-crowned Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,82757,,Amazilia beryllina,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,beryllina,,species,,Berylline Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,82871,,Amazilia candida,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,candida,,species,,White-bellied Emerald,female
+UWBM,University of Washington Burke Museum,Bird,82885,,Amazilia beryllina,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,beryllina,,species,,Berylline Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,82888,,Amazilia beryllina,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,beryllina,,species,,Berylline Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,83941,,Amazilia violiceps,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,violiceps,,species,,Violet-crowned Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,83946,,Amazilia rutila,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,rutila,,species,,Cinnamon Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,83954,,Amazilia violiceps,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,violiceps,,species,,Violet-crowned Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,84007,,Amazilia violiceps,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,violiceps,,species,,Violet-crowned Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,84016,,Amazilia rutila,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,rutila,,species,,Cinnamon Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,84058,,Cynanthus latirostris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Cynanthus,,latirostris,,species,,Broad-billed Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,84074,,Cynanthus latirostris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Cynanthus,,latirostris,,species,,Broad-billed Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,89048,,Amazilia violiceps,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,violiceps,,species,,Violet-crowned Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,89049,,Cynanthus latirostris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Cynanthus,,latirostris,,species,,Broad-billed Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,100759,,Amazilia tzacatl,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,tzacatl,,species,,Rufous-tailed Hummingbird,undetermined
+UWBM,University of Washington Burke Museum,Bird,118925,,Amazilia beryllina,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,beryllina,,species,,Berylline Hummingbird,undetermined
+UWBM,University of Washington Burke Museum,Bird,118926,,Amazilia beryllina,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,beryllina,,species,,Berylline Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,118927,,Amazilia beryllina,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,beryllina,,species,,Berylline Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,118928,,Amazilia beryllina,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,beryllina,,species,,Berylline Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,118929,,Eupherusa cyanophrys,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Eupherusa,,cyanophrys,,species,,Oaxaca Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,118930,,Eupherusa cyanophrys,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Eupherusa,,cyanophrys,,species,,Oaxaca Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,118931,,Eupherusa cyanophrys,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Eupherusa,,cyanophrys,,species,,Oaxaca Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,118933,,Eupherusa cyanophrys,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Eupherusa,,cyanophrys,,species,,Oaxaca Hummingbird,undetermined
+UWBM,University of Washington Burke Museum,Bird,118934,,Amazilia beryllina,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,beryllina,,species,,Berylline Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,118935,,Amazilia beryllina,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,beryllina,,species,,Berylline Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,118940,,Eupherusa cyanophrys,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Eupherusa,,cyanophrys,,species,,Oaxaca Hummingbird,undetermined
+UWBM,University of Washington Burke Museum,Bird,118941,,Basilinna leucotis,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Basilinna,,leucotis,,species,,White-eared Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,118942,,Eupherusa cyanophrys,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Eupherusa,,cyanophrys,,species,,Oaxaca Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,118953,,Amazilia beryllina,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,beryllina,,species,,Berylline Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,118958,,Eupherusa cyanophrys,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Eupherusa,,cyanophrys,,species,,Oaxaca Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,123258,,Amazilia tzacatl,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,tzacatl,,species,,Rufous-tailed Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,123330,,Amazilia tzacatl,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,tzacatl,,species,,Rufous-tailed Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,123331,,Amazilia tzacatl,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,tzacatl,,species,,Rufous-tailed Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,123332,,Amazilia tzacatl,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,tzacatl,,species,,Rufous-tailed Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,123381,,Amazilia tzacatl,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,tzacatl,,species,,Rufous-tailed Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,123498,,Amazilia tzacatl,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,tzacatl,,species,,Rufous-tailed Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,123627,,Amazilia tzacatl,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Amazilia,,tzacatl,,species,,Rufous-tailed Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,123672,,Thalurania colombica,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Thalurania,,colombica,,species,,Crowned Woodnymph,female
+UWBM,University of Washington Burke Museum,Bird,77153,,Aglaiocercus kingii,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Coquettes,Aglaiocercus,,kingii,,,,Long-tailed Sylph,male
+UWBM,University of Washington Burke Museum,Bird,77162,,Adelomyia melanogenys,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Coquettes,Adelomyia,,melanogenys,,,,Speckled Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,77159,,Ocreatus underwoodii,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Brilliants,Ocreatus,,underwoodii,,,,White-booted Racket-tail,male
+UWBM,University of Washington Burke Museum,Bird,77170,,Eriocnemis glaucopoides,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Brilliants,Eriocnemis,,glaucopoides,,species,,Blue-capped Puffleg,female
+UWBM,University of Washington Burke Museum,Bird,36727,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,undetermined
+UWBM,University of Washington Burke Museum,Bird,36728,,Selasphorus calliope,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,calliope,,,,Calliope Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,36784,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,37522,,Archilochus alexandri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,alexandri,,species,,Black-chinned Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,37523,,Archilochus alexandri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,alexandri,,species,,Black-chinned Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,38766,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,40360,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,40361,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,43057,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,43058,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,43059,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,43060,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,45620,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,45909,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,45922,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,48363,,Archilochus alexandri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,alexandri,,species,,Black-chinned Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,48374,,Selasphorus platycercus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,undetermined
+UWBM,University of Washington Burke Museum,Bird,49825,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,51393,,Selasphorus calliope,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,calliope,,,,Calliope Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,53651,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,54058,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,54059,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,54064,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,56038,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,59382,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,62641,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,62992,,Selasphorus sasin,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,sasin,,species,,Allen's Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,64429,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,64438,,Selasphorus calliope,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,calliope,,species,,Calliope Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,64439,,Selasphorus calliope,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,calliope,,species,,Calliope Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,64501,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,64552,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,64962,,Selasphorus calliope,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,calliope,,species,,Calliope Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,67866,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,67867,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,72971,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,72972,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,72973,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,73960,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,74548,,Selasphorus calliope,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,calliope,,species,,Calliope Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,74549,,Selasphorus calliope,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,calliope,,species,,Calliope Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,76068,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,76115,,Selasphorus platycercus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,76750,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,76752,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,77538,,Archilochus alexandri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,alexandri,,species,,Black-chinned Hummingbird,undetermined
+UWBM,University of Washington Burke Museum,Bird,77578,,Archilochus alexandri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,alexandri,,species,,Black-chinned Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,77760,,Archilochus alexandri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,alexandri,,species,,Black-chinned Hummingbird,undetermined
+UWBM,University of Washington Burke Museum,Bird,77762,,Archilochus alexandri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,alexandri,,species,,Black-chinned Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,77763,,Archilochus alexandri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,alexandri,,species,,Black-chinned Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,79108,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,79285,,Selasphorus calliope,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,calliope,,,,Calliope Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,79407,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,79655,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,undetermined
+UWBM,University of Washington Burke Museum,Bird,79697,,Calypte costae,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,costae,,species,,Costa's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,79742,,Selasphorus calliope,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,calliope,,,,Calliope Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,79743,,Selasphorus calliope,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,calliope,,,,Calliope Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,80021,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,80043,,Archilochus alexandri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,alexandri,,species,,Black-chinned Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,80160,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,80161,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,80212,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,80276,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,80540,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,81100,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,81377,,Calypte costae,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,costae,,species,,Costa's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,81584,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,81728,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,84131,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,84195,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,84224,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,84248,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,84271,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,84300,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,84302,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,84360,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,84745,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,84761,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+UWBM,University of Washington Burke Museum,Bird,85238,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+UWBM,University of Washington Burke Museum,Bird,85412,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,85416,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,85964,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,undetermined
+UWBM,University of Washington Burke Museum,Bird,85965,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,86001,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,86002,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,86027,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,86040,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,86050,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,undetermined
+UWBM,University of Washington Burke Museum,Bird,86064,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,undetermined
+UWBM,University of Washington Burke Museum,Bird,86212,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,undetermined
+UWBM,University of Washington Burke Museum,Bird,86233,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,86237,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,86337,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,86423,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,86436,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,86437,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,undetermined
+UWBM,University of Washington Burke Museum,Bird,86445,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+UWBM,University of Washington Burke Museum,Bird,87159,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,undetermined
+UWBM,University of Washington Burke Museum,Bird,87366,,Selasphorus calliope,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,calliope,,species,,Calliope Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,87367,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,87737,,Selasphorus calliope,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,calliope,,species,,Calliope Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,88651,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,88652,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,undetermined
+UWBM,University of Washington Burke Museum,Bird,88798,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,88855,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,88860,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,88861,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,88865,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,88870,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,undetermined
+UWBM,University of Washington Burke Museum,Bird,89535,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,90016,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,90054,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,90056,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,90069,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,90071,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,90088,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,90089,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,90538,,Selasphorus calliope,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,calliope,,species,,Calliope Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,91354,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,91456,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,91459,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,91462,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,91463,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,undetermined
+UWBM,University of Washington Burke Museum,Bird,91464,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,91468,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,91471,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,91473,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,91478,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,species,,Ruby-throated Hummingbird,undetermined
+UWBM,University of Washington Burke Museum,Bird,91480,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,91483,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,91484,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,91488,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,91489,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,91502,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,91503,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,91591,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,91592,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,91774,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,95044,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,106328,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,116348,,Selasphorus platycercus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,116367,,Archilochus alexandri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,alexandri,,species,,Black-chinned Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,116383,,Selasphorus platycercus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,116384,,Selasphorus platycercus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,116386,,Selasphorus platycercus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,116394,,Selasphorus platycercus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,116395,,Selasphorus platycercus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,116404,,Selasphorus platycercus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,116434,,Selasphorus platycercus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,116479,,Archilochus alexandri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,alexandri,,species,,Black-chinned Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,116487,,Archilochus alexandri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,alexandri,,species,,Black-chinned Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,116494,,Archilochus alexandri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,alexandri,,species,,Black-chinned Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,116675,,Selasphorus platycercus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,platycercus,,species,,Broad-tailed Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,116859,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,116860,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,118223,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,118250,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,119089,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,119182,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,121485,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,121488,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,121490,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,undetermined
+UWBM,University of Washington Burke Museum,Bird,121492,,Calypte anna,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calypte,,anna,,species,,Anna's Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,121823,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,121824,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,121825,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,undetermined
+UWBM,University of Washington Burke Museum,Bird,121827,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,121828,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,121829,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,121830,,Selasphorus calliope,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,calliope,,species,,Calliope Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,121864,,Selasphorus calliope,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,calliope,,species,,Calliope Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,121883,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,122104,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,122105,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,122106,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,122107,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,122108,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,122330,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,122331,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,122371,,Selasphorus calliope,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,calliope,,species,,Calliope Hummingbird,female
+UWBM,University of Washington Burke Museum,Bird,122406,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,undetermined
+UWBM,University of Washington Burke Museum,Bird,124305,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,124306,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,species,,Rufous Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,124392,,Selasphorus calliope,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,calliope,,species,,Calliope Hummingbird,male
+UWBM,University of Washington Burke Museum,Bird,124452,,Selasphorus calliope,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,calliope,,species,,Calliope Hummingbird,male
+UWYMV,University of Wyoming Museum of Vertebrates,Bird specimens,UWYMV:Bird:2430,,Stellula calliope,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Stellula,,calliope,,species,,Calliope Hummingbird,female
+UWYMV,University of Wyoming Museum of Vertebrates,Bird specimens,UWYMV:Bird:2431,,Stellula calliope,Animalia,Chordata,Aves,Caprimulgiformes,Trochilidae,Bees,Stellula,,calliope,,species,,Calliope Hummingbird,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 137571,,Eupetomena macroura macroura,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Eupetomena,,macroura,macroura,Subspecies,,Swallow-tailed Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 137639,,Phaethornis ruber ruber,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Hermits,Phaethornis,,ruber,ruber,Subspecies,,Reddish Hermit,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 141064,,Archilochus alexandri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,alexandri,,Species,,Black-chinned Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 141065,,Archilochus alexandri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,alexandri,,Species,,Black-chinned Hummingbird,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 141067,,Calothorax lucifer,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calothorax,,lucifer,,Species,,Lucifer Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 141068,,Calothorax lucifer,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calothorax,,lucifer,,Species,,Lucifer Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 141070,,Archilochus alexandri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,alexandri,,Species,,Black-chinned Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 141073,,Calothorax lucifer,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calothorax,,lucifer,,Species,,Lucifer Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 141074,,Calothorax lucifer,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calothorax,,lucifer,,Species,,Lucifer Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 141075,,Archilochus alexandri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,alexandri,,Species,,Black-chinned Hummingbird,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 141076,,Calothorax lucifer,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calothorax,,lucifer,,Species,,Lucifer Hummingbird,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 141683,,Selasphorus rufus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,rufus,,Species,,Rufous Hummingbird,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 141767,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,Species,,Ruby-throated Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 141902,,Calliphlox bryantae,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calliphlox,,bryantae,,Species,,Magenta-throated Woodstar,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 141904,,Selasphorus flammula torridus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,flammula,torridus,Subspecies,,Volcano Hummingbird,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 141923,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,Species,,Ruby-throated Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 141924,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,Species,,Ruby-throated Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 141925,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,Species,,Ruby-throated Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 141926,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,Species,,Ruby-throated Hummingbird,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 141929,,Thaumastura cora,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Thaumastura,,cora,,Species,,Peruvian Sheartail,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 141930,,Rhodopis vesper vesper,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Rhodopis,,vesper,vesper,Subspecies,,Oasis Hummingbird,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 141931,,Rhodopis vesper vesper,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Rhodopis,,vesper,vesper,Subspecies,,Oasis Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 141932,,Rhodopis vesper vesper,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Rhodopis,,vesper,vesper,Subspecies,,Oasis Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 141940,,Calliphlox bryantae,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calliphlox,,bryantae,,Species,,Magenta-throated Woodstar,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 141941,,Selasphorus flammula torridus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,flammula,torridus,Subspecies,,Volcano Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 141943,,Selasphorus scintilla,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,scintilla,,Species,,Scintillant Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 141944,,Selasphorus flammula torridus,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,flammula,torridus,Subspecies,,Volcano Hummingbird,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 141945,,Selasphorus scintilla,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,scintilla,,Species,,Scintillant Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 141947,,Selasphorus scintilla,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Selasphorus,,scintilla,,Species,,Scintillant Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 141948,,Thaumastura cora,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Thaumastura,,cora,,Species,,Peruvian Sheartail,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 141949,,Thaumastura cora,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Thaumastura,,cora,,Species,,Peruvian Sheartail,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 141950,,Thaumastura cora,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Thaumastura,,cora,,Species,,Peruvian Sheartail,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 141951,,Thaumastura cora,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Thaumastura,,cora,,Species,,Peruvian Sheartail,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142230,,Thaumastura cora,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Thaumastura,,cora,,Species,,Peruvian Sheartail,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142231,,Thaumastura cora,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Thaumastura,,cora,,Species,,Peruvian Sheartail,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142232,,Thaumastura cora,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Thaumastura,,cora,,Species,,Peruvian Sheartail,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142233,,Thaumastura cora,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Thaumastura,,cora,,Species,,Peruvian Sheartail,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142234,,Thaumastura cora,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Thaumastura,,cora,,Species,,Peruvian Sheartail,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142235,,Rhodopis vesper vesper,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Rhodopis,,vesper,vesper,Subspecies,,Oasis Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142236,,Rhodopis vesper vesper,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Rhodopis,,vesper,vesper,Subspecies,,Oasis Hummingbird,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 142237,,Rhodopis vesper vesper,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Rhodopis,,vesper,vesper,Subspecies,,Oasis Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142238,,Rhodopis vesper vesper,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Rhodopis,,vesper,vesper,Subspecies,,Oasis Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142239,,Rhodopis vesper vesper,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Rhodopis,,vesper,vesper,Subspecies,,Oasis Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142240,,Rhodopis vesper vesper,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Rhodopis,,vesper,vesper,Subspecies,,Oasis Hummingbird,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 142245,,Archilochus alexandri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,alexandri,,Species,,Black-chinned Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142246,,Archilochus alexandri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,alexandri,,Species,,Black-chinned Hummingbird,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 142247,,Archilochus alexandri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,alexandri,,Species,,Black-chinned Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142248,,Archilochus alexandri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,alexandri,,Species,,Black-chinned Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142249,,Calothorax lucifer,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calothorax,,lucifer,,Species,,Lucifer Hummingbird,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 142250,,Calothorax lucifer,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calothorax,,lucifer,,Species,,Lucifer Hummingbird,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 142253,,Archilochus alexandri,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,alexandri,,Species,,Black-chinned Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142506,,Myrtis fanny fanny,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Myrtis,,fanny,fanny,Subspecies,,Purple-collared Woodstar,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 142507,,Tilmatura dupontii,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Tilmatura,,dupontii,,Species,,Sparkling-tailed Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142508,,Doricha enicura,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Doricha,,enicura,,Species,,Slender Sheartail,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142509,,Doricha enicura,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Doricha,,enicura,,Species,,Slender Sheartail,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142510,,Doricha enicura,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Doricha,,enicura,,Species,,Slender Sheartail,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 142511,,Atthis ellioti ellioti,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Atthis,,ellioti,ellioti,Subspecies,,Wine-throated Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142512,,Atthis ellioti ellioti,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Atthis,,ellioti,ellioti,Subspecies,,Wine-throated Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142519,,Myrmia micrura,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Myrmia,,micrura,,Species,,Short-tailed Woodstar,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 142520,,Myrmia micrura,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Myrmia,,micrura,,Species,,Short-tailed Woodstar,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 142521,,Myrmia micrura,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Myrmia,,micrura,,Species,,Short-tailed Woodstar,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 142522,,Myrmia micrura,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Myrmia,,micrura,,Species,,Short-tailed Woodstar,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 142523,,Myrtis fanny fanny,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Myrtis,,fanny,fanny,Subspecies,,Purple-collared Woodstar,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142524,,Myrtis fanny fanny,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Myrtis,,fanny,fanny,Subspecies,,Purple-collared Woodstar,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142525,,Myrtis fanny fanny,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Myrtis,,fanny,fanny,Subspecies,,Purple-collared Woodstar,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142526,,Myrtis fanny fanny,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Myrtis,,fanny,fanny,Subspecies,,Purple-collared Woodstar,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 142527,,Myrmia micrura,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Myrmia,,micrura,,Species,,Short-tailed Woodstar,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142528,,Myrmia micrura,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Myrmia,,micrura,,Species,,Short-tailed Woodstar,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142529,,Myrmia micrura,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Myrmia,,micrura,,Species,,Short-tailed Woodstar,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142530,,Myrmia micrura,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Myrmia,,micrura,,Species,,Short-tailed Woodstar,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142531,,Myrmia micrura,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Myrmia,,micrura,,Species,,Short-tailed Woodstar,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142532,,Myrmia micrura,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Myrmia,,micrura,,Species,,Short-tailed Woodstar,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142533,,Myrmia micrura,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Myrmia,,micrura,,Species,,Short-tailed Woodstar,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 142534,,Myrtis fanny fanny,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Myrtis,,fanny,fanny,Subspecies,,Purple-collared Woodstar,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142535,,Myrtis fanny fanny,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Myrtis,,fanny,fanny,Subspecies,,Purple-collared Woodstar,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 142536,,Myrtis fanny fanny,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Myrtis,,fanny,fanny,Subspecies,,Purple-collared Woodstar,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 142537,,Myrmia micrura,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Myrmia,,micrura,,Species,,Short-tailed Woodstar,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 142538,,Myrtis fanny fanny,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Myrtis,,fanny,fanny,Subspecies,,Purple-collared Woodstar,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142539,,Myrtis fanny fanny,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Myrtis,,fanny,fanny,Subspecies,,Purple-collared Woodstar,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142540,,Atthis ellioti ellioti,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Atthis,,ellioti,ellioti,Subspecies,,Wine-throated Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142541,,Atthis ellioti ellioti,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Atthis,,ellioti,ellioti,Subspecies,,Wine-throated Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142542,,Doricha enicura,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Doricha,,enicura,,Species,,Slender Sheartail,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142543,,Tilmatura dupontii,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Tilmatura,,dupontii,,Species,,Sparkling-tailed Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142562,,Calliphlox lyrura,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calliphlox,,lyrura,,Species,,Inagua Woodstar,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142563,,Calliphlox lyrura,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calliphlox,,lyrura,,Species,,Inagua Woodstar,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142564,,Calliphlox lyrura,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calliphlox,,lyrura,,Species,,Inagua Woodstar,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142565,,Calliphlox lyrura,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calliphlox,,lyrura,,Species,,Inagua Woodstar,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142566,,Calliphlox lyrura,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calliphlox,,lyrura,,Species,,Inagua Woodstar,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 142567,,Calliphlox lyrura,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calliphlox,,lyrura,,Species,,Inagua Woodstar,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 142568,,Calliphlox evelynae,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calliphlox,,evelynae,,Species,,Bahama Woodstar,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142569,,Calliphlox evelynae,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calliphlox,,evelynae,,Species,,Bahama Woodstar,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 142570,,Calliphlox evelynae,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calliphlox,,evelynae,,Species,,Bahama Woodstar,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142571,,Calliphlox evelynae,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calliphlox,,evelynae,,Species,,Bahama Woodstar,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 142572,,Calliphlox evelynae,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calliphlox,,evelynae,,Species,,Bahama Woodstar,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142573,,Calliphlox evelynae,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calliphlox,,evelynae,,Species,,Bahama Woodstar,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142574,,Calliphlox evelynae,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calliphlox,,evelynae,,Species,,Bahama Woodstar,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142600,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,Species,,Ruby-throated Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142800,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,Species,,Ruby-throated Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142801,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,Species,,Ruby-throated Hummingbird,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 142802,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,Species,,Ruby-throated Hummingbird,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 142829,,Calliphlox mitchellii,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calliphlox,,mitchellii,,Species,,Purple-throated Woodstar,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 142830,,Calliphlox mitchellii,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calliphlox,,mitchellii,,Species,,Purple-throated Woodstar,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 142831,,Calliphlox mitchellii,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calliphlox,,mitchellii,,Species,,Purple-throated Woodstar,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142832,,Calliphlox mitchellii,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Calliphlox,,mitchellii,,Species,,Purple-throated Woodstar,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 142833,,Chaetocercus mulsant,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Chaetocercus,,mulsant,,Species,,White-bellied Woodstar,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 142834,,Chaetocercus heliodor cleavesi,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Chaetocercus,,heliodor,cleavesi,Subspecies,,Gorgeted woodstar,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 145882,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,Species,,Ruby-throated Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 146243,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,Species,,Ruby-throated Hummingbird,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 147734,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,Species,,Ruby-throated Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 147903,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Bees,Archilochus,,colubris,,Species,,Ruby-throated Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 148159,,Chlorostilbon lucidus berlepschi,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Chlorostilbon,,lucidus,berlepschi,Subspecies,,Glittering-bellied emerald,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 148361,,Hylocharis chrysura,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Hylocharis,,chrysura,,Species,,Gilded Hummingbird,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 148371,,Chlorostilbon lucidus berlepschi,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Chlorostilbon,,lucidus,berlepschi,Subspecies,,Glittering-bellied emerald,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 148418,,Chlorostilbon lucidus berlepschi,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Chlorostilbon,,lucidus,berlepschi,Subspecies,,Glittering-bellied emerald,female
+YPM,Yale Peabody Museum,VZ,YPM ORN 148447,,Chlorostilbon lucidus berlepschi,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Emeralds,Chlorostilbon,,lucidus,berlepschi,Subspecies,,Glittering-bellied emerald,male
+YPM,Yale Peabody Museum,VZ,YPM ORN 149813,,Archilochus colubris,Animalia,Chordata,Aves,Apodiformes,Throchilidae,Bees,Archilochus,,colubris,,Species,,Ruby-throated Hummingbird,male
